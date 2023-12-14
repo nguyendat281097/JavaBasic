@@ -7,7 +7,7 @@ public class ThuatToanChon {
            */
     /* step1 cho mảng input
        step2 chạy vòng for từ 0 đến phần tử cuối của mảng
-       step3 chạy vong for thứ 2 chạy từ i đến ptu cuối cùng trong mảng để so sáng
+       step3 chạy vong for thứ 2 chạy từ i + 1 đến ptu cuối cùng trong mảng để so sáng
        step4 tìm phần tử nhỏ nhất có trong mảng
             4.1 cho min = arr[i](phần tử đầu tiên)
             4.2 duyệt step3

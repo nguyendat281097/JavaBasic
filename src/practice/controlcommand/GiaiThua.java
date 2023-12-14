@@ -24,7 +24,7 @@ public class GiaiThua {
        step2 cho tổng sum = 1
        step3 kiểm tra n có bằng 1 k
        step4 nếu bằng 1 thì return sum
-       step5 k bằng 1 thì lấy cái factorialUseRecursion(n-1) * numbers*/
+       step5 k bằng 1 thì lấy n nhân với đệ quy của (n-1)
     public int factorialUseRecursion(int numbers){
         int sum = 1;
         if(numbers == 1)

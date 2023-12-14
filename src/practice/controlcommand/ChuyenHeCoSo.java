@@ -1,5 +1,7 @@
 package practice.controlcommand;
 
+// Câu hỏi: nếu không dùng array/list thì ta dùng gì được? --> String? Làm sao được với String?
+
 public class ChuyenHeCoSo {
     /*Viết một chương trình java để chuyển đổi số nguyên N sang hệ cơ số B.
         Input: Chuyển số 15 sang hệ cơ số 2

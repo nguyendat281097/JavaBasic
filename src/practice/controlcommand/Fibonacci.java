@@ -6,8 +6,8 @@ public class Fibonacci {
            Output: 0 1 1 2 3 5 8 13 21 34*/
     /*step1 tạo 1 mảng với kích thước bằng Input
       step2 duyệt mảng
-      step3  ktr i=0|1, arr[0] và arr[1] = index
-      step4 arr[i] = arr[i-1] + arr[i-2] (i != 0, 1)
+      step3  ktr index=0|1, arr[0] và arr[1] = index [0,1,....]
+      step4  nếu không thì arr[i] = arr[i-1] + arr[i-2] (i != 0, 1)
       step5 in */
     public void printFibonacciNotUseRecursion(int numbers) {
         int[] arr = new int[numbers];
