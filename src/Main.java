@@ -3,7 +3,7 @@ import practice.controlcommand.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        /*System.out.println("Hello world!");
         Student a = new Student("Nguyễn Văn A", 22, "DH20DT");
         Student b = new Student();
         b.setAge(33);
@@ -35,7 +35,7 @@ public class Main {
         System.out.println();
         System.out.println("đệ qui: ");
         System.out.println("Giai thừa của số "+ soN+ " là: "+g.factorialUseRecursion(soN));
-        int[] arr = {18, 9, 33, 4, 84, 32};
+
         System.out.print("Input: ");
         print(arr);
         System.out.println("Thuật toán nổi bọt");
@@ -45,17 +45,18 @@ public class Main {
         System.out.println("Thuật toán chọn");
         System.out.print("Output: ");
         ThuatToanChon tc = new ThuatToanChon();
-        print(tc.selectionSort(arr));
+        print(tc.selectionSort(arr));*/
+        int[] arr = {18, 9, 33, 4, 84, 32};
         System.out.println("Thuật toán chèn");
         System.out.print("Output: ");
         ThuatToanChen ttc = new ThuatToanChen();
         print(ttc.insertionSort(arr));
-        System.out.println("Chuyển đổi hệ cơ số");
+        /*System.out.println("Chuyển đổi hệ cơ số");
         int n =26;
         System.out.println("Inpur n: "+n);
         System.out.print("Output: ");
         ChuyenHeCoSo cs = new ChuyenHeCoSo();
-        cs.conversionCoefficient(n);
+        cs.conversionCoefficient(n);*/
     }
     public static void print(int[] arr){
         for(int i=0; i< arr.length; i++){
