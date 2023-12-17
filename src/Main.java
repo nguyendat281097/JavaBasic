@@ -46,17 +46,20 @@ public class Main {
         System.out.print("Output: ");
         ThuatToanChon tc = new ThuatToanChon();
         print(tc.selectionSort(arr));*/
-        int[] arr = {18, 9, 33, 4, 84, 32};
+        int[] arr = {18, 9, 76,34, 21, 6, 0, 45, 5, 8, 12};
+        print(arr);
         System.out.println("Thuật toán chèn");
         System.out.print("Output: ");
         ThuatToanChen ttc = new ThuatToanChen();
         print(ttc.insertionSort(arr));
-        /*System.out.println("Chuyển đổi hệ cơ số");
+       /* System.out.println("Chuyển đổi hệ cơ số");
         int n =26;
         System.out.println("Inpur n: "+n);
         System.out.print("Output: ");
         ChuyenHeCoSo cs = new ChuyenHeCoSo();
-        cs.conversionCoefficient(n);*/
+        cs.conversionCoefficient(n);
+        System.out.println("String");
+        cs.stringconversionCoefficient(n);*/
     }
     public static void print(int[] arr){
         for(int i=0; i< arr.length; i++){
