@@ -2,6 +2,7 @@ package OOP;
 
 import java.util.Scanner;
 
+// Kiểm tra trường hơp người dùng nhập vào mẫu số = 0, thông báo và cho người dùng nhập lại mẫu số khác
 public class Fraction {
     /* Xây dựng lớp Phanso gồm:
           Thuộc Tính: tuso, mauso.
