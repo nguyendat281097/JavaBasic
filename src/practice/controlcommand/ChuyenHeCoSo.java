@@ -44,6 +44,15 @@ public class ChuyenHeCoSo {
         }
         print(arr);
     }
+
+    public void stringconversionCoefficient(int n){
+        String b = " ";
+        while(n != 0){
+            b = n%2 + b;
+            n/=2;
+        }
+        System.out.println(b);
+    }
     public void print(int[] arr){
         for(int i=0; i< arr.length; i++){
             System.out.print(arr[i]);
