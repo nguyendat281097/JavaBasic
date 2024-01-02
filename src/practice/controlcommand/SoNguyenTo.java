@@ -11,7 +11,7 @@ public class SoNguyenTo {
       step3 ktra n có chia hết cho số nào trong for k
       step4 nếu chia hết in ra n k là số ngto
       step5 in ra n là số ng tố*/
-    public int Prime(int numbers){
+    public int prime(int numbers){
         for(int i = 2; i <= numbers -1; i++){
             if( (numbers % i) == 0){
                 return 1;

@@ -13,6 +13,7 @@ public class HanhKhach extends Nguoi {
     // 1 hành khách có thể có nhiều vé nên tạo mảng có vé máy bay
     VeMayBay[] ve;
     // số lượng vé hành khách mua
+    // comment 22222222222
     private int soLuong;
 
     public HanhKhach(String hoTen, String gioiTinh, int tuoi, int soLuong) {
