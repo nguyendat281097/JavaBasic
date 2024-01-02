@@ -1,5 +1,5 @@
-package Baitap_1;
-import java.util.*;
+package BaiTapOOP.Baitap_1;
+
 public class NhanVien extends CanBo {
 	// Các nhân viên có thuộc tính riêng: công việc.
 	String congViec;

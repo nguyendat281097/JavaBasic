@@ -1,4 +1,4 @@
-package Baitap_3;
+package BaiTapOOP.Baitap_3;
 import java.util.Scanner;
 public class Main {
 	/*Yêu cầu 2: Xây dựng lớp TuyenSinh có các chức năng:

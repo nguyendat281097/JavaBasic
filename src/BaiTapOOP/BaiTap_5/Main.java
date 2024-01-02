@@ -1,4 +1,4 @@
-package BaiTap_5;
+package BaiTapOOP.BaiTap_5;
 import java.util.*;
 public class Main {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ThuVien;
+package BaiTapOOP.ThuVien;
 
 public class TaiLieu {
 	/*Một thư viện cần quản lý các tài liệu bao gồm Sách, Tạp chí, Báo. Mỗi tài liệu gồm có các thuộc tính sau: Mã tài liệu(Mã tài liệu là duy nhất), Tên nhà xuất bản, số bản phát hành.

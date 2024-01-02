@@ -1,4 +1,4 @@
-package ThuVien;
+package BaiTapOOP.ThuVien;
 import java.util.*;
 public class QuanLySach {
 	/*Yêu cầu 2: Xây dựng lớp QuanLySach có các chức năng sau

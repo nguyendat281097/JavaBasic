@@ -1,4 +1,4 @@
-package BaiTap_4;
+package BaiTapOOP.BaiTap_4;
 import java.util.*;
 public class HoGiaDinh {
 	/**Để quản lý các hộ dân cư trong một khu phố, người ta cần các thông tin sau: Số thành viên trong gia đình, Số nhà,

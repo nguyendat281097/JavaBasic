@@ -1,4 +1,4 @@
-package BaiTap_4;
+package BaiTapOOP.BaiTap_4;
 import java.util.*;
 public class KhuPho{
 	//Yêu cầu 3: Xây dựng lớp KhuPho để quản lý các thông tin của từng hộ gia đình.

@@ -1,5 +1,5 @@
-package Baitap_1;
-import java.util.*;
+package BaiTapOOP.Baitap_1;
+
 public class CongNhan extends CanBo{
 	//Cấp công nhân sẽ có thêm các thuộc tính riêng: Bậc (1 đến 10).
 	int bac;

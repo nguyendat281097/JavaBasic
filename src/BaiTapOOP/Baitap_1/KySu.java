@@ -1,5 +1,5 @@
-package Baitap_1;
-import java.util.*;
+package BaiTapOOP.Baitap_1;
+
 public class KySu extends CanBo{
 	//Cấp kỹ sư có thuộc tính riêng: Nghành đào tạo.
 	String nganhDaoTao;

@@ -1,4 +1,4 @@
-package BaiTap_5;
+package BaiTapOOP.BaiTap_5;
 import java.util.*;
 public class KhachSan {
 	/*Để quản lý khách hàng đến thuê phòng của một khách sạn, người ta cần các thông tin sau: 

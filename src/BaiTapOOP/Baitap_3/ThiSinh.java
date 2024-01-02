@@ -1,4 +1,4 @@
-package Baitap_3;
+package BaiTapOOP.Baitap_3;
 
 public class ThiSinh {
 	/*Các thí sinh dự thi đại học bao gồm các thí sinh thi khối A, B, và khối C. Các thí sinh cần quản lý các thông tin sau: 

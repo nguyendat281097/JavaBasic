@@ -1,4 +1,4 @@
-package ThuVien;
+package BaiTapOOP.ThuVien;
 
 public class Sach extends TaiLieu{
 	//Các loại sách cần quản lý thêm các thuộc tính: tên tác giả, số trang.

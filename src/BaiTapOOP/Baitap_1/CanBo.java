@@ -1,5 +1,5 @@
-package Baitap_1;
-import java.util.*;
+package BaiTapOOP.Baitap_1;
+
 public class CanBo {
 	/*Một đơn vị sản xuất gồm có các cán bộ là công nhân, kỹ sư, nhân viên. Mỗi cán bộ cần quản lý các dữ liệu: Họ tên, tuổi, giới tính(name, nữ, khác), địa chỉ.
 	     Cấp công nhân sẽ có thêm các thuộc tính riêng: Bậc (1 đến 10).

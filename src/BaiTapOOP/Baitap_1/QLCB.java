@@ -1,4 +1,4 @@
-package Baitap_1;
+package BaiTapOOP.Baitap_1;
 import java.util.*;
 public class QLCB {
 	/*Xây dựng lớp QLCB(quản lý cán bộ) cài đặt các phương thức thực hiện các chức năng sau:

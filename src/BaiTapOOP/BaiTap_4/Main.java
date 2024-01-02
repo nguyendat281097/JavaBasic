@@ -1,4 +1,4 @@
-package BaiTap_4;
+package BaiTapOOP.BaiTap_4;
 import java.util.*;
 public class Main {
 //Yêu cầu 4: Nhập n hộ dân. (n nhập từ bàn phím), hiển thị thông tin của các hộ trong khu phố.

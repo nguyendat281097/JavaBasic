@@ -1,4 +1,4 @@
-package ThuVien;
+package BaiTapOOP.ThuVien;
 
 public class TapChi extends TaiLieu{
 	//Các tạp chí cần quản lý thêm: Số phát hành, tháng phát hành.

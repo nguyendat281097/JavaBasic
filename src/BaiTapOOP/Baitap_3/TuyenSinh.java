@@ -1,4 +1,4 @@
-package Baitap_3;
+package BaiTapOOP.Baitap_3;
 import java.util.ArrayList;
 public class TuyenSinh {
 /*Yêu cầu 2: Xây dựng lớp TuyenSinh có các chức năng:

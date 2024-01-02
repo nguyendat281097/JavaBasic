@@ -1,4 +1,4 @@
-package ThuVien;
+package BaiTapOOP.ThuVien;
 
 public class Bao extends TaiLieu{
 	//Các báo cần quản lý thêm: Ngày phát hành

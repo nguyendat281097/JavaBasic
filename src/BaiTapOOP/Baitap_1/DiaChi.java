@@ -1,4 +1,4 @@
-package Baitap_1;
+package BaiTapOOP.Baitap_1;
 import java.util.Scanner;
 public class DiaChi {
 	String soNha;// Số nhà
